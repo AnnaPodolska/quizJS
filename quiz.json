@@ -1,0 +1,71 @@
+{
+"quizNum": "1",
+"questions" : [
+    {
+    "question" : "(2 + 4) : 3 = ",
+    "anwers" : {
+    "option1" : "3",
+    "option2" : "2",
+    "option3" : "4"
+    },
+    "correctanswer"  : "2"
+    },
+    {
+    "question" : "[(9 + 11) : 4] * 3 + 4= ",
+    "anwers" : {
+    "option1" : "35",
+    "option2" : "27",
+    "option3" : "19"
+    },
+    "correctanswer"  : "19"
+    },
+    {
+    "question" : "[(7 - 2) * 3]^2 * 2 - 2= ",
+    "anwers" : {
+    "option1" : "0",
+    "option2" : "448",
+    "option3" : "88"
+    },
+    "correctanswer"  : "448"
+    },
+    {
+    "question" : "sqrt(64) * 3 - 1= ",
+    "anwers" : {
+    "option1" : "17",
+    "option2" : "16",
+    "option3" : "23"
+    },
+    "correctanswer"  : "23"
+    },
+    {
+    "question" : "2^2 + 4^2= ",
+    "anwers" : {
+    "option1" : "36",
+    "option2" : "12",
+    "option3" : "20"
+    },
+    "correctanswer"  : "20"
+    },
+    {
+    "question" : "sqrt(5^2) + 1  = ",
+    "anwers" : {
+    "option1" : "6",
+    "option2" : "sqrt(26)",
+    "option3" : "sqrt(11)"
+    },
+    "correctanswer"  : "6"
+    },
+    {
+    "question" : " 10 + 6 * 0 - 2 * 3= ",
+    "anwers" : {
+    "option1" : "4",
+    "option2" : "14",
+    "option3" : "-6"
+    },
+    "correctanswer"  : "4"
+    }
+]
+}
+
+
+
